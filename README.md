@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently exploring **Data Analytics, EDA, and ML Basics**  
 - 💬 Ask me about **Data Analytics, Business Intelligence Dashboards, and EDA**  
-- 📫 How to reach me **jyotiraditya.chavan@example.com**  
+- 📫 How to reach me **adityaprakashchavan08@gmail.com**  
 - ⚡ Fun fact: **I love creating dashboards and turning complex data into simple insights 📊**  
 
 ---
