@@ -44,11 +44,10 @@
 
 <h3 align="left">📌 Projects:</h3>
 
-- 🧾 **OCR Management System using AI/ML** – Automating document text extraction with OCR & ML pipelines.  
-- 📊 **Credit Card Financial Dashboard** – Built an interactive Power BI dashboard for financial insights.  
-- 🤖 **Smart AI Resume Analyzer** – Final-year B.Tech project applying NLP & ML to evaluate resumes.  
-- 🌊 **Flood & Drought Prediction** – Applied ML models on hydrology & climate datasets for extreme event prediction.  
-- 📉 **Time-Series Anomaly Detection** – Hackathon project analyzing air quality data via APIs.  
+- 📊 **Credit Card Financial Dashboard** – Interactive dashboard analyzing financial KPIs such as revenue, segmentation, and transaction trends using Power BI.  
+- 🏪 **Super Store Sales Dashboard** – Power BI dashboard tracking sales, profit trends, and state-wise performance.  
+- 🖼️ **Image Classification (CNN)** – Deep learning model trained with TensorFlow/Keras for accurate image classification.  
+- ✋ **Sign Language Detection** – Real-time sign language recognition system using Python, OpenCV, and CNN.  
 
 ---
 
