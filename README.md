@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="hero.svg" alt="Hero Banner" />
+  <img src="Hero.svg" alt="Hero Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jyotiraditya Chavan</h1>
