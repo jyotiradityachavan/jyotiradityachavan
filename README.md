@@ -1,7 +1,7 @@
 <!-- Hero Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/jyotiradityachavan/jyotiradityachavan/main/Hero.svg" 
-       alt="Jyotiraditya Chavan - Hero Banner" 
+       alt="Jyotiraditya Chavan Banner" 
        width="100%" />
 </p>
 
