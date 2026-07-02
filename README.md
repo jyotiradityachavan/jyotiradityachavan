@@ -1,6 +1,8 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="Hero.svg" alt="Hero Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/jyotiradityachavan/jyotiradityachavan/main/Hero.svg" 
+       alt="Jyotiraditya Chavan - Hero Banner" 
+       width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jyotiraditya Chavan</h1>
@@ -12,7 +14,6 @@
 - ⚡ Fun fact: **I enjoy turning complex data and images into intelligent, real-world applications**
 
 ---
-
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jyotiraditya-chavan-4557a9285" target="blank">
@@ -24,7 +25,6 @@
 </p>
 
 ---
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -42,7 +42,6 @@
 </p>
 
 ---
-
 <h3 align="left">📌 Featured Projects:</h3>
 
 - **🧾 OCRIQ - Intelligent Bill OCR Management System**  
@@ -58,6 +57,5 @@
   Real-time sign language recognition system using Computer Vision and Deep Learning.
 
 ---
-
 **Feel free to explore my repositories!**  
 Looking for opportunities in **Machine Learning, AI Engineering, and Document AI**.
