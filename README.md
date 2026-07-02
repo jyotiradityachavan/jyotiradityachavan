@@ -1,7 +1,7 @@
-<!-- Hero Banner -->
+<!-- Hero Banner - Simple Version -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/jyotiradityachavan/jyotiradityachavan/main/Hero.svg" 
-       alt="Jyotiraditya Chavan Banner" 
+       alt="Jyotiraditya Chavan" 
        width="100%" />
 </p>
 
