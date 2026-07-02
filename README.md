@@ -1,15 +1,15 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="Hero.svg" alt="Hero Banner"  width="100%" />
+  <img src="Hero.svg" alt="Hero Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jyotiraditya Chavan</h1>
-<h3 align="center">Aspiring Data Analyst | Computer Science Undergraduate</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | B.Tech CSE 2026</h3>
 
-- 🌱 I’m currently exploring **Data Analytics, EDA, and ML Basics**  
-- 💬 Ask me about **Data Analytics, Business Intelligence Dashboards, and EDA**  
-- 📫 How to reach me **adityaprakashchavan08@gmail.com**  
-- ⚡ Fun fact: **I love creating dashboards and turning complex data into simple insights 📊**  
+- 🌱 Currently working on **Multimodal AI, Document Intelligence & Computer Vision**
+- 💬 Ask me about **OCR Systems, Qwen-VL, Multimodal AI, and Time-Series Analysis**
+- 📫 How to reach me: **adityaprakashchavan08@gmail.com**
+- ⚡ Fun fact: **I enjoy turning complex data and images into intelligent, real-world applications**
 
 ---
 
@@ -18,16 +18,15 @@
   <a href="https://www.linkedin.com/in/jyotiraditya-chavan-4557a9285" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="adityaprakashchavan08@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" width="40" />
+  <a href="https://github.com/jyotiradityachavan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -35,24 +34,30 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="excel" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="cnn" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/> </a>
 </p>
 
 ---
 
-<h3 align="left">📌 Projects:</h3>
+<h3 align="left">📌 Featured Projects:</h3>
 
-- 📊 **Credit Card Financial Dashboard** – Interactive dashboard analyzing financial KPIs such as revenue, segmentation, and transaction trends using Power BI.  
-- 🏪 **Super Store Sales Dashboard** – Power BI dashboard tracking sales, profit trends, and state-wise performance.  
-- 🖼️ **Image Classification (CNN)** – Deep learning model trained with TensorFlow/Keras for accurate image classification.  
-- ✋ **Sign Language Detection** – Real-time sign language recognition system using Python, OpenCV, and CNN.  
+- **🧾 OCRIQ - Intelligent Bill OCR Management System**  
+  Full-stack AI application for automatic bill & invoice data extraction using **Qwen-VL** (Vision-Language Model). Built with React.js, Node.js, MongoDB and deployed on Hugging Face Spaces.
+
+- **🧠 Temporal Emotion Transition Modeling** (IIT Bombay Internship)  
+  Multimodal time-series analysis using EEG, GSR, eye-tracking & facial data. Developed RNN-HMM hybrid model to understand emotion transitions and engagement patterns.
+
+- **🖼️ Image Classification (CNN)**  
+  Built and optimized deep learning models using TensorFlow/Keras/PyTorch for accurate image recognition.
+
+- **✋ Sign Language Detection**  
+  Real-time sign language recognition system using Computer Vision and Deep Learning.
 
 ---
 
-
+**Feel free to explore my repositories!**  
+Looking for opportunities in **Machine Learning, AI Engineering, and Document AI**.
