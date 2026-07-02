@@ -1,10 +1,47 @@
-<!-- <p align="center">
-  <h1 align="center">Hi 👋, I'm Jyotiraditya Chavan</h1>
-  <h3 align="center">Aspiring Machine Learning Engineer | Multimodal AI & Document Intelligence</h3>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <defs>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00BFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#1E90FF" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0d1117"/>
+  
+  <!-- Grid -->
+  <g opacity="0.15" stroke="#444" stroke-width="0.5">
+    <path d="M0 80 L800 80 M0 160 L800 160 M0 240 L800 240 M0 320 L800 320"/>
+    <path d="M160 0 L160 400 M320 0 L320 400 M480 0 L480 400 M640 0 L640 400"/>
+  </g>
 
-<h1 align="center">Hi 👋, I'm Jyotiraditya Chavan</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | B.Tech CSE 2026</h3>
+  <!-- Geometric Accent -->
+  <g transform="translate(520,190)">
+    <circle cx="0" cy="0" r="170" fill="url(#mainGradient)" opacity="0.08"/>
+  </g>
+
+  <!-- Text Content -->
+  <g transform="translate(40,140)">
+    <text x="0" y="0" font-family="system-ui,-apple-system,sans-serif" font-size="32" font-weight="700" fill="#ffffff">
+      Jyotiraditya Chavan
+    </text>
+    <text x="0" y="38" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="600" fill="#00BFFF">
+      Aspiring Machine Learning Engineer
+    </text>
+    <text x="0" y="65" font-family="system-ui,-apple-system,sans-serif" font-size="14" fill="#aaaaaa">
+      Multimodal AI • Computer Vision • Document Intelligence (Qwen-VL)
+    </text>
+    <text x="0" y="88" font-family="system-ui,-apple-system,sans-serif" font-size="14" fill="#aaaaaa">
+      IIT Bombay Intern • Google Cloud GenAI 1st Rank
+    </text>
+  </g>
+
+  <!-- Bottom Tagline -->
+  <text x="400" y="340" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="500" fill="#888888" text-anchor="middle">
+    Building Intelligent Systems with AI &amp; Data
+  </text>
+</svg>
+
 
 - 🌱 Currently working on **Multimodal AI, Document Intelligence & Computer Vision**
 - 💬 Ask me about **OCR Systems, Qwen-VL, Multimodal AI, and Time-Series Analysis**
@@ -66,46 +103,3 @@ Looking for opportunities in **Machine Learning, AI Engineering, and Document AI
 
 
 
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
-  <defs>
-    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00BFFF" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#1E90FF" stop-opacity="1"/>
-    </linearGradient>
-  </defs>
-  
-  <!-- Background -->
-  <rect width="800" height="400" fill="#0d1117"/>
-  
-  <!-- Grid -->
-  <g opacity="0.15" stroke="#444" stroke-width="0.5">
-    <path d="M0 80 L800 80 M0 160 L800 160 M0 240 L800 240 M0 320 L800 320"/>
-    <path d="M160 0 L160 400 M320 0 L320 400 M480 0 L480 400 M640 0 L640 400"/>
-  </g>
-
-  <!-- Geometric Accent -->
-  <g transform="translate(520,190)">
-    <circle cx="0" cy="0" r="170" fill="url(#mainGradient)" opacity="0.08"/>
-  </g>
-
-  <!-- Text Content -->
-  <g transform="translate(40,140)">
-    <text x="0" y="0" font-family="system-ui,-apple-system,sans-serif" font-size="32" font-weight="700" fill="#ffffff">
-      Jyotiraditya Chavan
-    </text>
-    <text x="0" y="38" font-family="system-ui,-apple-system,sans-serif" font-size="18" font-weight="600" fill="#00BFFF">
-      Aspiring Machine Learning Engineer
-    </text>
-    <text x="0" y="65" font-family="system-ui,-apple-system,sans-serif" font-size="14" fill="#aaaaaa">
-      Multimodal AI • Computer Vision • Document Intelligence (Qwen-VL)
-    </text>
-    <text x="0" y="88" font-family="system-ui,-apple-system,sans-serif" font-size="14" fill="#aaaaaa">
-      IIT Bombay Intern • Google Cloud GenAI 1st Rank
-    </text>
-  </g>
-
-  <!-- Bottom Tagline -->
-  <text x="400" y="340" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="500" fill="#888888" text-anchor="middle">
-    Building Intelligent Systems with AI &amp; Data
-  </text>
-</svg>
