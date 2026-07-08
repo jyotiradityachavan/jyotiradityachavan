@@ -9,7 +9,7 @@
   <!-- Background -->
   <rect width="800" height="400" fill="#0d1117"/>
   
-  <!-- Subtle Grid -->
+  <!-- Grid -->
   <g opacity="0.12" stroke="#444" stroke-width="0.5">
     <path d="M0 80 L800 80 M0 160 L800 160 M0 240 L800 240 M0 320 L800 320"/>
     <path d="M160 0 L160 400 M320 0 L320 400 M480 0 L480 400 M640 0 L640 400"/>
@@ -19,21 +19,21 @@
   <g transform="translate(530,195)">
     <circle cx="0" cy="0" r="165" fill="url(#mainGradient)" opacity="0.07"/>
     
-    <!-- Large Hexagon (Slow Rotation) -->
+    <!-- Large Hexagon -->
     <path d="M-165,0 L-82.5,-143 L82.5,-143 L165,0 L82.5,143 L-82.5,143 Z" 
-          fill="none" stroke="#00BFFF" stroke-width="2" opacity="0.55">
+          fill="none" stroke="#00BFFF" stroke-width="1.8" opacity="0.5">
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="38s" repeatCount="indefinite"/>
     </path>
     
-    <!-- Medium Hexagon (Medium Rotation) -->
+    <!-- Medium Hexagon -->
     <path d="M-115,0 L-57.5,-99.5 L57.5,-99.5 L115,0 L57.5,99.5 L-57.5,99.5 Z" 
-          fill="none" stroke="#1E90FF" stroke-width="2.5" opacity="0.65">
+          fill="none" stroke="#1E90FF" stroke-width="2.2" opacity="0.65">
       <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="26s" repeatCount="indefinite"/>
     </path>
   </g>
 
   <!-- Main Content -->
-  <g transform="translate(45,125)">
+  <g transform="translate(45,120)">
     <text x="0" y="0" font-family="system-ui,-apple-system,sans-serif" font-size="34" font-weight="700" fill="#ffffff">
       Jyotiraditya Chavan
     </text>
@@ -41,12 +41,15 @@
       Aspiring Machine Learning Engineer
     </text>
     
-    <!-- Skills with Icons -->
+    <!-- Skills with Icons (Only from your resume) -->
     <text x="0" y="68" font-family="system-ui,-apple-system,sans-serif" font-size="14.5" fill="#aaaaaa">
-      🔹 Multimodal AI • Computer Vision • Document Intelligence (Qwen-VL)
+      🤖 Multimodal AI • 👁️ Computer Vision • 📄 OCR (Qwen-VL)
     </text>
-    <text x="0" y="90" font-family="system-ui,-apple-system,sans-serif" font-size="14" fill="#aaaaaa">
-      🔹 IIT Bombay Intern • Google Cloud GenAI 1st Rank
+    <text x="0" y="88" font-family="system-ui,-apple-system,sans-serif" font-size="14.5" fill="#aaaaaa">
+      📊 Time-Series Analysis • 🔄 Transformer Models • 🧠 CNN
+    </text>
+    <text x="0" y="108" font-family="system-ui,-apple-system,sans-serif" font-size="14.5" fill="#aaaaaa">
+      🛠️ Hugging Face • 📈 Data Analytics •
     </text>
   </g>
 
