@@ -1,13 +1,11 @@
-<!-- Hero Banner - Simple Version -->
+<!-- Hero Banner -->
 
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/jyotiradityachavan/jyotiradityachavan/main/Hero.svg" 
-
-       alt="Jyotiraditya Chavan" 
-
-       width="100%" />
-
+  <img
+    src="https://raw.githubusercontent.com/jyotiradityachavan/jyotiradityachavan/main/Hero.svg"
+    alt="Jyotiraditya Chavan"
+    width="100%"
+  />
 </p>
 
 
